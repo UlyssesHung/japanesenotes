@@ -1,18 +1,19 @@
-<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:0 title:1 charForUnorderedList:* -->
-## Table of Contents
-* [N1 Vocab](#n1-vocab)
-  * [Same](#same)
-  * [Important(各種連接詞副詞等功能性用詞)](#important)
-    * [轉折](#)
-    * [相應副詞](#)
-  * [Similar Form](#similar-form)
-  * [疊字](#)
-  * [V.S.](#vs)
-  * [Confuse(Cannot Guess Meaning By Kanji)](#confusecannot-guess-meaning-by-kanji)
-  * [Same Sound Different Kanji](#same-sound-different-kanji)
-  * [Only kana](#only-kana)
-  * [衝字](#)
-  * [Sound Not Match Kanji](#sound-not-match-kanji)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [N1 Vocab](#n1-vocab)
+	- [Same](#same)
+	- [Important(各種連接詞副詞等功能性用詞)](#important各種連接詞副詞等功能性用詞)
+		- [轉折](#轉折)
+		- [相應副詞](#相應副詞)
+	- [Similar Form](#similar-form)
+	- [疊字](#疊字)
+	- [V.S.](#vs)
+	- [Confuse(Cannot Guess Meaning By Kanji)](#confusecannot-guess-meaning-by-kanji)
+	- [Same Sound Different Kanji](#same-sound-different-kanji)
+	- [Only kana](#only-kana)
+	- [衝字](#衝字)
+	- [Sound Not Match Kanji](#sound-not-match-kanji)
+
 <!-- /TOC -->
 # N1 Vocab
 ## Same
